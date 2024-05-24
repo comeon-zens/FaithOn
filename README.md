@@ -26,13 +26,13 @@ Inner/Inner:![inner/inner][image2]
 
 
 ### Goal of the project
-This project will build a communication system with two different flat spiral coil pairs using the inner/inner configuration. The result will be similar to optical communication systems using an optical fibre with different frequencies of the electromagnetic spectrum. (Electron and Positron).
+This project will build a communication system with two different flat spiral coil pairs using the inner/inner configuration. The result will be similar to optical communication systems using an optical fibre with different frequencies of the electromagnetic spectrum (Electron and Positron).
 
 ### Possible areas of application:
 - Control of pipeline inspection robots, but also for water basins and sewage treatment plants
 - Communication for underwater measurement systems or for smart farming sensors
-- Communication during the shell construction of high-rise buildings
 - Communication via a cable car system between valley and mountain
+- Communication during the shell construction of high-rise buildings
 - Communication for shielded environments and bunker systems
 - Camera systems within a Faraday cage (shipping containers)
 - V2X communication for cars and other installations
